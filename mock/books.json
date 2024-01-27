@@ -1,0 +1,91 @@
+[
+  {
+    "id": 1,
+     "image": "https://i.pinimg.com/564x/59/7f/b4/597fb48556f2d63ae86cb49197d0b477.jpg",
+    
+    "book": "The Catcher in the Rye",
+    "author": "J.D. Salinger",
+    "slug": "catcher-in-the-rye",
+    "description": "A classic novel about the experiences of a teenager named Holden Caulfield in New York City."
+  },
+  {
+    "id": 2,
+     "image": "https://i.pinimg.com/564x/82/a1/c6/82a1c65df82227d7df6b549a78dfdaa7.jpg",
+    "book": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "slug": "to-kill-a-mockingbird",
+    "description": "A powerful story of racial injustice and moral growth in the American South during the 1930s."
+  },
+  {
+    "id": 3,
+
+ "image": "https://i.pinimg.com/564x/a1/66/ab/a166abf7a822d2b50964d1175d0878d5.jpg",
+    "book": "1984",
+    "author": "George Orwell",
+    "slug": "1984",
+    "description": "A dystopian novel that explores the consequences of government overreach and surveillance."
+  },
+  {
+    "id": 4,
+
+ "image": "https://i.pinimg.com/564x/97/eb/4d/97eb4df77ed0fb9f0d19b8a9cda7db56.jpg",
+    "book": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "slug": "the-great-gatsby",
+    "description": "An exploration of the American Dream and the decadence of the Roaring Twenties."
+  },
+  {
+    "id": 5,
+
+ "image": "https://i.pinimg.com/564x/f0/d2/8b/f0d28bce35617b8f42994c5e45839ae1.jpg",
+    "book": "Harry Potter and the Philosopher's Stone",
+    "author": "J.K. Rowling",
+    "slug": "harry-potter",
+    "description": "The first book in the popular Harry Potter series, introducing the world of magic and wizardry."
+  },
+  {
+    "id": 6,
+
+ "image": "https://i.pinimg.com/564x/fe/98/25/fe9825d8a5578255799e35a95889a3a1.jpg",
+    "book": "The Hobbit",
+    "author": "J.R.R. Tolkien",
+    "slug": "the-hobbit",
+    "description": "An adventure novel that follows the journey of Bilbo Baggins as he helps a group of dwarves reclaim their homeland."
+  },
+  {
+    "id": 7,
+
+ "image": "https://i.pinimg.com/564x/10/02/53/1002531bffabcfd05f52d511bdbdb73b.jpg",
+    "book": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "slug": "pride-and-prejudice",
+    "description": "A classic romance novel exploring societal expectations, love, and misunderstandings in 19th-century England."
+  },
+  {
+    "id": 8,
+
+ "image": "https://i.pinimg.com/564x/86/89/79/86897975988f94d10423be0a5733a738.jpg",
+    "book": "The Lord of the Rings",
+    "author": "J.R.R. Tolkien",
+    "slug": "the-lord-of-the-rings",
+    "description": "An epic fantasy trilogy that follows the quest to destroy the One Ring and defeat the Dark Lord Sauron."
+  },
+  {
+    "id": 9,
+
+ "image": "https://i.pinimg.com/564x/20/e4/29/20e429d4263bdc52ecae1c7fcbe030a2.jpg",
+    "book": "The Hunger Games",
+    "author": "Suzanne Collins",
+    "slug": "the-hunger-games",
+    "description": "A dystopian novel set in a post-apocalyptic world where teenagers are chosen to participate in a televised fight to the death."
+  },
+  {
+    "id": 10,
+     "image": "https://i.pinimg.com/564x/52/bd/4e/52bd4e51a61d9e516b18294a571628c7.jpg",
+
+    "book": "Frankenstein",
+    "author": "Mary Shelley",
+    "slug": "frankenstein",
+    "description": "A gothic science fiction novel exploring the consequences of playing god and creating life."
+  }
+]
